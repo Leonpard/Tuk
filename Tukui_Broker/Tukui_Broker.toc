@@ -1,0 +1,11 @@
+## Interface: 40100
+## Title: |cffC495DDTukui Broker|r
+## Notes: A data broker display for Tukui panels
+## Author: Ztango
+## Version: 1.6
+## RequiredDeps: Tukui
+
+embeds.xml
+
+LibDataBroker-1.1.lua
+Tukui_Broker.lua

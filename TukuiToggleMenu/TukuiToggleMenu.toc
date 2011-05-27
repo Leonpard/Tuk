@@ -1,0 +1,10 @@
+## Interface: 40100
+## Title: |cff00AAFFTukui Toggle Menu|r
+## Notes: Toggle it!
+## Author: Hydra, Foof, Gorlasch
+## Version: 13.05
+## RequiredDeps: Tukui
+## OptionalDeps: Tukui_ConfigUI, DXE
+
+config.lua
+core.lua
